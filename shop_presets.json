@@ -1,0 +1,22 @@
+{
+  "默认配置": {
+    "step_a": [0, 0],
+    "step_b": [0, 0],
+    "step_c": [0, 0],
+    "step_plus": [0, 0],
+    "step_price_region": [0, 0, 0, 0],
+    "step_currency_region": [0, 0, 0, 0],
+    "step_buy": [0, 0],
+    "step_confirm": [0, 0],
+    "step_close": [0, 0],
+    "cell_width": 100,
+    "cell_height": 100,
+    "start_x": 0,
+    "start_y": 0,
+    "cols": 4,
+    "rows": 4,
+    "max_price": 10000,
+    "plus_clicks": 15,
+    "price_region": [0, 0, 0, 0]
+  }
+}
