@@ -2,7 +2,7 @@
 
 一个基于 Python + Tkinter 的游戏店铺自动批量购买工具，支持自动遍历商品列表、拉满购买数量、OCR识别总价、金额超阈值确认等功能。
 <br>
-<img width="20%" alt="image" src="https://github.com/user-attachments/assets/7e66e6df-12cc-4664-803a-0155f35a73a9" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/7e66e6df-12cc-4664-803a-0155f35a73a9" />
 
 ## 功能特性
 
